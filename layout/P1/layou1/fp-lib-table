@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mFootprintLib)(type KiCad)(uri E:/Documents/PCB_project/layout/mylib2/mFootprintLib.pretty)(options "")(descr ""))
+)

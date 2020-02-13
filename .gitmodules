@@ -1,3 +1,6 @@
 [submodule "layout/mylib/pcbLibrary"]
 	path = layout/mylib/pcbLibrary
 	url = https://github.com/chris543/sub_test.git
+[submodule "layout/mylib2"]
+	path = layout/mylib2
+	url = https://gitea.t2t.io/chris/mKiCadLib.git

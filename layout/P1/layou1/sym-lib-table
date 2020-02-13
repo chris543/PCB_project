@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name New_Library)(type Legacy)(uri E:/Documents/PCB_project/layout/mylib/New_Library.lib)(options "")(descr ""))
-  (lib (name mSymbolLib)(type Legacy)(uri E:/Documents/PCB_project/layout/mylib/pcbLibrary/library/mSymbolLib.lib)(options "")(descr ""))
+  (lib (name mSymbolLib1)(type Legacy)(uri E:/Documents/PCB_project/layout/mylib/pcbLibrary/library/mSymbolLib.lib)(options "")(descr "")(disabled))
+  (lib (name mSymbolLib)(type Legacy)(uri E:/Documents/PCB_project/layout/mylib2/mSymbolLib.lib)(options "")(descr ""))
 )
