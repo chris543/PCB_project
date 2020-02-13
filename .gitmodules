@@ -1,0 +1,3 @@
+[submodule "layout/mylib/pcbLibrary"]
+	path = layout/mylib/pcbLibrary
+	url = https://github.com/chris543/sub_test.git
