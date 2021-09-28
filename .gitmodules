@@ -4,3 +4,6 @@
 [submodule "layout/mylib2"]
 	path = layout/mylib2
 	url = https://gitea.t2t.io/chris/mKiCadLib.git
+[submodule "external/lib/sub_test"]
+	path = external/lib/sub_test
+	url = https://github.com/chris543/sub_test.git
